@@ -1,1 +1,3 @@
-My third repository as a full stack engineer
+0x00-shell_basics --- Shell Basics 
+
+0x01-shell_permissions --- Shell permissions 
