@@ -8,4 +8,6 @@ File 3. A script that counts the number of directories in the PATH
 
 File 4. A script that lists the environment variables 
 
-File 5. A script that lists all local variables and environment variables, and functions  
+File 5. A script that lists all local variables and environment variables, and functions
+
+File 6. A script creates a new local variable  
