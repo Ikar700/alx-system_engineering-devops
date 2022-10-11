@@ -26,4 +26,6 @@ File 12. A script that prints all possible combinations of two letters except oo
 
 File 13 . A script that prints a number with two decimal places, followed by a new line ;The new file will be stored in the environment variable NUM.
 
-File 100. A script that converts a number from base 10 to base 16 
+File 100. A script that converts a number from base 10 to base 16
+
+File 101. A script that encodes and decodes text using the rot13 encryption. Assume ASCII 
