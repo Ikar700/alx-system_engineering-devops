@@ -31,3 +31,5 @@ File 100. A script that converts a number from base 10 to base 16
 File 101. A script that encodes and decodes text using the rot13 encryption. Assume ASCII
 
 File 102. A script that prints every other line from the input, starting with the first line
+
+File 103. A shell script that adds two numbers stored in the environment variables WATER and STIR and prints the result
