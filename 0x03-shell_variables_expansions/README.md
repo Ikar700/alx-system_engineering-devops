@@ -10,4 +10,6 @@ File 4. A script that lists the environment variables
 
 File 5. A script that lists all local variables and environment variables, and functions
 
-File 6. A script creates a new local variable  
+File 6. A script that creates a new local variable
+
+File 7. A script that creates a new global variable  
