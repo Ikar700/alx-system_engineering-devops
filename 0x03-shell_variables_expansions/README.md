@@ -22,4 +22,6 @@ File 10. A script that displays the result BREATH to the power of LOVE
 
 File 11. A script that converts a number from base 2 to base 10
    
+File 12. A script that prints all possible combinations of two letters except oo
+
 
